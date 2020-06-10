@@ -27,6 +27,13 @@ header nav {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    overflow: hidden;
+}
+
+header nav::after{
+    content: ' ';
+    display: block;
+    clear: both;
 }
 
 header h1 .seo {
