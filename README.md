@@ -16,6 +16,28 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
+### Prerequisites
+
+### Installing
+
+
+## Built With
+
+## Deployed Link
+```
+[Live Hosted on](https://shambhawi13.github.io/html-git-css-homework/)
+```
+
+## Authors
+
+```
+Shambhawi Kumari
+[GitHub](https://github.com/shambhawi13/html-git-css-homework)
+```
+
+
+
+
 ## Acceptance Criteria
 
 ```
