@@ -27,14 +27,14 @@ SO THAT our own site is optimized for search engines
 ```
 [Live Hosted on](https://shambhawi13.github.io/html-git-css-homework/)
 ```
+[Live Hosted on](https://shambhawi13.github.io/html-git-css-homework/)
 
 ## Authors
 
 ```
 Shambhawi Kumari
-[GitHub](https://github.com/shambhawi13/html-git-css-homework)
 ```
-
+[GitHub](https://github.com/shambhawi13/html-git-css-homework)
 
 
 
