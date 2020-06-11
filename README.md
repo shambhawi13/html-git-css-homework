@@ -15,6 +15,9 @@ As part of code refactoring, following steps are considered:
 - div and sections were grouped together to denote semantic grouping of elements.
 - consolidated CSS selectors and properties
 - organized the semantic structure of the HTML elements
+- added color to footer.
+- added margin above footer
+- added clearfix after benefits, float-left,float-right 
 
 ## Prerequisites
 
@@ -41,8 +44,8 @@ git clone https://github.com/shambhawi13/html-git-css-homework.git
 ## Authors
 
 * **Shambhawi Kumari**
-[GitHub](https://github.com/shambhawi13/html-git-css-homework)
-[LinkedIn](https://www.linkedin.com/in/shambhawi-kumari/)
+- [GitHub](https://github.com/shambhawi13/html-git-css-homework)
+- [LinkedIn](https://www.linkedin.com/in/shambhawi-kumari/)
 
 
 ## Review URL
