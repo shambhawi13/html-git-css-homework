@@ -4,9 +4,9 @@ This webpage contains refactored code .
 
 As part of code refactoring, following steps are considered:
 - Relevent title is added
-- header section is added which contains <h1> tag and nav bar which lists all the links to the pages.
+- header section is added which contains `<h1>` tag and nav bar which lists all the links to the pages.
 - nav bar contains float right property
-- footer is modified. <h3> is added instead of <h2>
+- footer is modified. `<h3>` is added instead of `<h2>`
 - alt attribute is added for all images
 - nav links were configured properly to point to related section of the page.
 - comments were added for better understanding
