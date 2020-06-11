@@ -44,7 +44,7 @@ git clone https://github.com/shambhawi13/html-git-css-homework.git
 ## Authors
 
 * **Shambhawi Kumari**
-- [GitHub](https://github.com/shambhawi13/html-git-css-homework)
+- [GitHub](https://github.com/shambhawi13/)
 - [LinkedIn](https://www.linkedin.com/in/shambhawi-kumari/)
 
 
